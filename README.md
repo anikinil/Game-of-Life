@@ -1,6 +1,6 @@
 # Game of Life
 
-------
+
 ### Description
 Simple simulation program of **Game of Life** in *Java SE 1.8.0*
 
